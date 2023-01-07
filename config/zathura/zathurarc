@@ -1,0 +1,5 @@
+set recolor
+set recolor-lightcolor "rgba(0,0,0,0)"
+set recolor-keephue
+set default-bg "rgba(0,0,0,.45)"
+set guioptions none

@@ -1,0 +1,10 @@
+!#/bin/bash
+
+cp .tmux ~/
+cp config/* ~/.config/
+cp .tmux.conf ~/
+cp .zshrc ~/
+cp sshoot /bin/
+cp pacman.conf /etc/
+cp mirrorlist /etc/pacman.d/
+cp config.nu env.nu ~/.config/nu

@@ -1,0 +1,325 @@
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIME.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDA.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIM.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::XingHeader::parse() -- Xing header doesn't contain the required information.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIME.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDA.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIM.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::XingHeader::parse() -- Xing header doesn't contain the required information.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIME.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDA.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIM.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::XingHeader::parse() -- Xing header doesn't contain the required information.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIME.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDA.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIM.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::XingHeader::parse() -- Xing header doesn't contain the required information.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIME.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDA.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TIM.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::XingHeader::parse() -- Xing header doesn't contain the required information.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the id3v2 header was greater than the allowed 128.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: MPEG::Header::parse() -- data is too short for an MPEG frame header.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
