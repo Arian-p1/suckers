@@ -1,1 +1,3 @@
-pacman -Syu atril rustup zathura obsidian nautilus ruby discord teamspeak3 chromium radare2 nitrogen alacritty zsh postman steam gitui rofi neovide simplescreenrecorder vlc dbeaver nushell
+#!/bin/bash
+
+pacman -Syu atril rustup zathura obsidian nautilus ruby discord teamspeak3 chromium radare2 nitrogen alacritty zsh postman steam gitui rofi neovide simplescreenrecorder vlc dbeaver nushell mpv

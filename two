@@ -1,1 +1,3 @@
+#!/bin/bash
+
 yay -S leftwm ida-free visual-studio-bin freedownloadmanager brave-nightly-binbrave-nightly-bin

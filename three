@@ -1,4 +1,5 @@
-!#/bin/bash
+#!/bin/bash
+
 
 cp .tmux ~/
 cp config/* ~/.config/
